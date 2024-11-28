@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\korto\source\repos\Zadanie2\main.cpp(34,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\korto\source\repos\Zadanie2\main.cpp(48,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Zadanie2.vcxproj -> C:\Users\korto\source\repos\Zadanie2\x64\Debug\Zadanie2.exe
